@@ -34,9 +34,9 @@ To build a fully functional cybersecurity home lab for penetration testing, fire
 
 ---
 
-<img src="https://github.com/eberechi10/cybersecurity_projects/blob/main/VM%20Machine.png"/>
+<img src="https://github.com/eberechi10/cybersecurity_projects/Metasploitable dashboard.png"/>
 
-![VM Machine](https://github.com/eberechi10/cybersecurity_projects/blob/main/VM%20Machine.png)
+![VM Machine](https://github.com/eberechi10/cybersecurity_projects/Metasploitable dashboard.png)
 
 ### **Step 1: Install Virtualization Software**
 1. Download and install **VirtualBox** on host machine.
