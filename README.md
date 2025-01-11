@@ -4,7 +4,7 @@
 Welcome to my Cybersecurity Project Portfolio! This repository showcases a collection of projects I have worked on to develop and demonstrate my cybersecurity skills. Each project is structured to highlight practical applications, problem-solving, and hands-on experience in areas such as penetration testing, SIEM, malware analysis, incident response, and secure application development.
 
 Additionally, it has paved the way for me to pursue one of the following roles:
-* Cybersecurity Analyst
+* Cybersecurity Analyst/Engineer
 * Security Analyst
 * SOC Analyst
 * Information Security Manager
@@ -15,12 +15,6 @@ Additionally, it has paved the way for me to pursue one of the following roles:
 
 1. Introduction
 2. Projects
-Cybersecurity Home Lab
-Malware Analysis
-Vulnerability Assessment and Penetration Testing (VAPT)
-SIEM Implementation
-Intrusion Detection/Prevention Systems (IDS/IPS)
-
 3. Skills Demonstrated
 4. How to Use
 5. License
