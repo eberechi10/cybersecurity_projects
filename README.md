@@ -1,5 +1,5 @@
 # Eberechukwu-Cybersecurity-Portfolio
-## Overview
+### Introduction
 
 Welcome to my Cybersecurity Project Portfolio! This repository showcases a collection of projects I have worked on to develop and demonstrate my cybersecurity skills. Each project is structured to highlight practical applications, problem-solving, and hands-on experience in areas such as penetration testing, SIEM, malware analysis, incident response, and secure application development.
 
@@ -19,7 +19,7 @@ Additionally, it has paved the way for me to pursue one of the following roles:
 4. How to Use
 5. License
 
-### Introduction
+### Objective
 
 Cybersecurity is critical in today's technology-driven world. Through this portfolio, I aim to showcase my expertise in securing systems, detecting vulnerabilities, and implementing defense strategies. Each project includes a detailed explanation, tools used, and the results obtained.
 
