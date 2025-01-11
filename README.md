@@ -29,7 +29,7 @@ Cybersecurity is critical in today's technology-driven world. Through this portf
 
 Description: A virtualized lab for practicing cybersecurity techniques, including network monitoring, vulnerability scanning, and penetration testing.
 
-**Tools Used:** VirtualBox, Ubuntu Server, Kali Linux, Snort, Metasploit.
+**Tools Used:** VirtualBox, Ubuntu 20.4, Kali Linux, Pfsense, Metasploitable, Windows 10.
 
 **Skills Demonstrated:** Virtualization, network configuration, vulnerability scanning, and IDS setup.
 
