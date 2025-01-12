@@ -110,7 +110,7 @@ To build a fully functional cybersecurity home lab for penetration testing, fire
 ## What I’ll Use the Lab For
 1. ### Network Security Testing
 - **Firewall Configuration**: Fine-tune firewall rules on pfSense to allow or block traffic based on security needs.
-Traffic Analysis: Use Security Onion to monitor traffic flow and identify potential threats in real time.
+- **Traffic Analysis**: Use Security Onion to monitor traffic flow and identify potential threats in real time.
 - **Intrusion Detection and Prevention**: Test how effectively Security Onion detects and prevents simulated attacks.
 
 2. ### Ethical Hacking and Penetration Testing
