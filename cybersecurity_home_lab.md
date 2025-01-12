@@ -1,5 +1,9 @@
+
+
 ## Cybersecurity Home Lab Setup
-I designed this Cybersecurity Home Lab to serve as a personal training ground for hands-on learning and practical experience in cybersecurity. It’s a versatile lab equipped to simulate real-world environments for testing and analysis, using the following components:
+
+<div <div class="text-justify">
+I designed this Cybersecurity Home Lab to serve as a personal training ground for hands-on learning and practical experience in cybersecurity. It’s a versatile lab equipped to simulate real-world environments for testing and analysis, using the following components:</div>
 
 - pfSense: Acts as the firewall and router to manage network traffic and enforce security policies.
 - Kali Linux: A penetration testing platform for simulating and testing various attack scenarios.
@@ -10,7 +14,8 @@ I designed this Cybersecurity Home Lab to serve as a personal training ground fo
 ---
 
 #### **Objective**
-To build a fully functional cybersecurity home lab for penetration testing, firewall management, vulnerability assessment, and ethical hacking, using pfSense as a firewall and managing network traffic between three zones: WAN, LAN, and DMZ.
+<div class="text-justify">
+To build a fully functional cybersecurity home lab for penetration testing, firewall management, vulnerability assessment, and ethical hacking, using pfSense as a firewall and managing network traffic between three zones: WAN, LAN, and DMZ.</div>
 
 #### **End Goal**
 1. Configure a secure and segmented network with pfSense acting as the firewall.
@@ -34,9 +39,7 @@ To build a fully functional cybersecurity home lab for penetration testing, fire
 
 ---
 
-<img src="https://github.com/eberechi10/cybersecurity_projects/Windows10_dashboard.png"/>
-
-![VM Machine](https://github.com/eberechi10/cybersecurity_projects/Windows10_dashboard.png)
+<img src="images/VM_Machine.png" width="300"/>
 
 ### **Step 1: Install Virtualization Software**
 1. Download and install **VirtualBox** on host machine.
@@ -55,9 +58,9 @@ To build a fully functional cybersecurity home lab for penetration testing, fire
 3. Boot the pfSense VM and complete the installation:
    - Assign **WAN, LAN, and DMZ interfaces** during setup.
    - Set IP ranges for each interface:
-     - WAN: Use DHCP for external IP: **10.0.2.15/24**
-     - LAN: **192.168.1.1/24**.
-     - DMZ: **192.168.2.1/24**.
+   - WAN: Use DHCP for external IP: **10.0.2.15/24**
+   - LAN: **192.168.1.1/24**.
+   - DMZ: **192.168.2.1/24**.
 4. Access the pfSense web GUI by entering the LAN IP (**192.168.1.1**) in a browser.
 
 ---
@@ -104,48 +107,50 @@ To build a fully functional cybersecurity home lab for penetration testing, fire
 
 ---
 
-
-
-
-
-
-
-What I’ll Use the Lab For
-1. Network Security Testing
-Firewall Configuration: Fine-tune firewall rules on pfSense to allow or block traffic based on security needs.
+## What I’ll Use the Lab For
+1. ### Network Security Testing
+- **Firewall Configuration**: Fine-tune firewall rules on pfSense to allow or block traffic based on security needs.
 Traffic Analysis: Use Security Onion to monitor traffic flow and identify potential threats in real time.
-Intrusion Detection and Prevention: Test how effectively Security Onion detects and prevents simulated attacks.
-2. Ethical Hacking and Penetration Testing
-Exploitation Practice: Launch attacks from Kali Linux against Metasploitable to explore vulnerabilities.
-Web Application Security: Host web applications on the Ubuntu Server and test for weaknesses using tools like Burp Suite.
-Password Cracking: Test weak credentials using Hydra, John the Ripper, or other tools.
-3. Malware Analysis
-Behavior Analysis: Execute malware samples in the Windows 10 VM to observe their behavior safely.
-Network Communication Analysis: Monitor malware’s network activity using Security Onion to understand its reach.
-4. Vulnerability Assessment
-Scanning: Use Nessus or OpenVAS to identify vulnerabilities in all systems.
-Patch Testing: Test system updates or patches and validate their effectiveness in mitigating risks.
-5. Forensics and Incident Response
-Log Analysis: Use Security Onion to collect logs from pfSense and VMs, analyzing them for suspicious activity.
-Network Forensics: Examine packet captures (PCAPs) for signs of network breaches.
-Disk Forensics: Analyze compromised systems using tools like Autopsy.
-6. Secure Development and Testing
-Application Hardening: Test secure coding practices by hosting web applications on Ubuntu.
-Dynamic Analysis: Use OWASP ZAP or similar tools to test application responses to simulated attacks.
-7. Real-World Attack Simulations
-Man-in-the-Middle (MITM) Attacks: Simulate MITM attacks to understand their impact and how to defend against them.
-Phishing Campaigns: Set up email servers to practice and analyze phishing techniques.
-Denial of Service (DoS) Testing: Simulate DoS attacks on isolated systems to evaluate their resilience.
+- **Intrusion Detection and Prevention**: Test how effectively Security Onion detects and prevents simulated attacks.
 
-Benefits of This Lab
-Hands-On Learning: It provides a safe, controlled environment to practice cybersecurity concepts without risking production systems.
-Skill Development: Enables me to refine my skills in penetration testing, forensics, malware analysis, and network security.
-Portfolio Building: Projects and findings from the lab can be documented and showcased as proof of my practical experience.
-Certification Preparation: The lab is ideal for preparing for certifications like CEH, OSCP, CompTIA Security+, and more.
+2. ### Ethical Hacking and Penetration Testing
+- **Exploitation Practice**: Launch attacks from Kali Linux against Metasploitable to explore vulnerabilities.
+- **Web Application Security**: Host web applications on the Ubuntu Server and test for weaknesses using tools like Burp Suite.
+- **Password Cracking**: Test weak credentials using Hydra, John the Ripper, or other tools.
 
-Real-World Scenarios: By simulating real-world attacks, I’ll gain insights into how breaches occur and how to mitigate them.
-Tool Mastery: Provides hands-on experience with industry-standard tools like pfSense, Kali Linux, and Metasploit.
+3. #### Malware Analysis
+- **Behavior Analysis**: Execute malware samples in the Windows 10 VM to observe their behavior safely.
+- **Network Communication Analysis**: Monitor malware’s network activity using Security Onion to understand its reach.
 
+4. ### Vulnerability Assessment
+- **Scanning**: Use Nessus or OpenVAS to identify vulnerabilities in all systems.
+- **Patch Testing**: Test system updates or patches and validate their effectiveness in mitigating risks.
+
+5. ### Forensics and Incident Response
+- **Log Analysis**: Use Security Onion to collect logs from pfSense and VMs, analyzing them for suspicious activity.
+- **Network Forensics**: Examine packet captures (PCAPs) for signs of network breaches.
+- **Disk Forensics**: Analyze compromised systems using tools like Autopsy.
+
+6. ### Secure Development and Testing
+- **Application Hardening**: Test secure coding practices by hosting web applications on Ubuntu.
+- **Dynamic Analysis**: Use OWASP ZAP or similar tools to test application responses to simulated attacks.
+
+7. ### Real-World Attack Simulations
+- **Man-in-the-Middle (MITM) Attacks**: Simulate MITM attacks to understand their impact and how to defend against them.
+- **Phishing Campaigns**: Set up email servers to practice and analyze phishing techniques.
+- **Denial of Service (DoS) Testing**: Simulate DoS attacks on isolated systems to evaluate their resilience.
+
+---
+
+### Benefits of This Lab
+- **Hands-On Learning**: It provides a safe, controlled environment to practice cybersecurity concepts without risking production systems.
+- **Skill Development**: Enables me to refine my skills in penetration testing, forensics, malware analysis, and network security.
+- **Portfolio Building**: Projects and findings from the lab can be documented and showcased as proof of my practical experience.
+- **Certification Preparation**: The lab is ideal for preparing for certifications like CEH, OSCP, CompTIA Security+, and more.
+- **Real-World Scenarios**: By simulating real-world attacks, I’ll gain insights into how breaches occur and how to mitigate them.
+- **Tool Mastery**: Provides hands-on experience with industry-standard tools like pfSense, Kali Linux, and Metasploit.
+
+---
 
 ### **Skills Gained**
    - Proficiency in configuring and managing pfSense for traffic control, NAT, and DHCP.  
@@ -154,8 +159,11 @@ Tool Mastery: Provides hands-on experience with industry-standard tools like pfS
    - Practical understanding of network segmentation to mitigate threats.      
    - Building and managing virtualized environments with VMware or VirtualBox.  
    - Optimizing resource allocation for multi-VM setups.  
-   - Diagnosing configuration errors and implementing effective solutions.  
-    - Developing workflows for conducting cybersecurity assessments.  
+   - Diagnosing configuration errors and implementing effective solutions.
+   - Developing workflows for conducting cybersecurity assessments.  
+---
 
-
+<div class="text-justify">
 This lab represents my commitment to becoming a well-rounded cybersecurity professional. If you’re interested in replicating this setup or need advice on specific configurations, feel free to reach out. Together, we can grow our skills and make cyberspace safer!
+</div>
+
