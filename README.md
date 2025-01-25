@@ -86,6 +86,17 @@ Skills Demonstrated: Secure coding practices, encryption, and web application se
 
 [Detailed Documentation](https://your.com)
 
+7. Lab - Harden a Linux System
+
+Description: Use a security auditing tool to discover system vulnerabilities.
+Implement recommended solutions to harden the system.
+
+Tools Used: Lynis, Ubuntu Vm
+
+Skills Demonstrated: System Hardening Techniques, Security Auditing, Writing and applying firewall rules, Problem-Solving and Research, Proactive Cybersecurity Practices
+
+[Detailed Documentation](https://github.com/eberechi10/cybersecurity_projects/blob/main/Harden%20a%20Linux%20System.md)
+
 
 Skills Demonstrated
 
