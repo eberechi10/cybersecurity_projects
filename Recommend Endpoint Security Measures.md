@@ -1,19 +1,19 @@
 ## Lab - Recommend Endpoint Security Measures  
 
-In this lab, you will meet the following objectives:
+In this lab, we will meet the following objectives:
 
-Objectives
+**Objectives**
 Part 1: Recommend Mitigation Procedures to Address Vulnerabilities
 
 Part 2: Recommend an Endpoint Protection Product for a New Network
 
-Background / Scenario
-To provide security, professionals typically implement a number of network security measures that work together in a layered security approach. Firewalls and other devices protect the network perimeter from attack; however, it is always possible that threats can elude these defenses. Therefore, it is not only necessary to protect the network perimeter, but also take action to protect individual network hosts from compromise. In this lab, you will read two case studies and recommend endpoint threat mitigations that are appropriate to address the exploits.
+**Background / Scenario**
+To provide security, professionals typically implement a number of network security measures that work together in a layered security approach. Firewalls and other devices protect the network perimeter from attack; however, it is always possible that threats can elude these defenses. Therefore, it is not only necessary to protect the network perimeter, but also take action to protect individual network hosts from compromise. In this lab, we will read two case studies and recommend endpoint threat mitigations that are appropriate to address the exploits.
 
-Required Resources
+**Required Resources**
 Internet access
 
-Instructions
+**Instructions**
 Part 1: Recommend Mitigation Procedures to Address Vulnerabilities
 You work on a security team for a manufacturing company. A new customer requires that, before the company can be granted the contract, it must comply with more stringent standards. A vulnerability assessment of the network was completed and a number of vulnerabilities were found, including the following endpoint security issues:
 
@@ -58,7 +58,7 @@ Use your learning in the course and internet research to recommend a comprehensi
 
 ---
 
-Conclusion
+**Conclusion**
 
 In conclusion, addressing endpoint vulnerabilities and implementing robust security measures are critical components of a comprehensive cybersecurity strategy. By upgrading outdated operating systems, restricting USB access, enforcing BYOD policies, limiting web browsing, and standardizing antivirus solutions, organizations can significantly mitigate risks and enhance their overall security posture. Additionally, adopting an advanced endpoint protection product like CrowdStrike Falcon ensures scalable and proactive defense against evolving threats, while supporting rapid business growth.  
 
