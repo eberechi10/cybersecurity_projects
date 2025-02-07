@@ -71,13 +71,14 @@ A brief, high-level summary of the incident, major findings, affected systems, a
 A table to track action items:
 
 |Task | Assigned To | Status | Notes |
-|---|---|---|---| 
+|---|---|---|---|
 | Example Task 1 | Name | Investigating | Details here | 
 | Example Task 2 | Name | Completed | Details here |
 
 |Task | Assigned To | Status | Notes |
 |---|---|---|---|
 | Example Task 1 | Name | Investigating | Details here|
+| Example Task 2 | Name | Completed | Details here |
 
 | Left Aligned  | Center Aligned  | Right Aligned |
 | :------------ |:---------------:| -------------:|
