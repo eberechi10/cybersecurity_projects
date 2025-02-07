@@ -32,6 +32,7 @@ This document serves as a guide to documenting and managing security incidents e
 
 ## **2. High-Level Incident Tracker** 
 **Incident Name:** [Give the incident a clear name]
+
 **Classification:** (Choose one) 
 - **Incident** - Critical security issue involving data exposure. 
 - **Event** - Investigation required, but no data exposure.
@@ -118,6 +119,7 @@ Hold a post-incident review meeting to discuss:
 - **Improvement Plan:** Outline actions to prevent future incidents.
 
 ## **13. How to Use This Document** 
+
 - **Keep it updated** as the investigation progresses. 
 - **Ensure everyone uses the same document** to track findings. 
 - **Conduct post-incident reviews** to refine processes.
