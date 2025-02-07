@@ -69,34 +69,56 @@ A brief, high-level summary of the incident, major findings, affected systems, a
 
 ## **4. Status Tracker** 
 A table to track action items:
+
 | Task | Assigned To | Status | Notes | 
+
 | - - - | - - - - - - | - - - - | - - - -| 
+
 | Example Task 1 | [Name] | Investigating | Details here | 
+
 | Example Task 2 | [Name] | Completed | Details here |
 
 ## **5. Incident Details**
+
 | Field | Details | 
+
 | - - - - | - - - - -| 
+
 | **Incident Lead** | [Name] | 
+
 | **Incident Assistant** | [Name] | 
+
 | **Subject Matter Experts (SMEs)** | [List of experts involved] | 
+
 | **Incident Reporter** | [Who reported it?] | 
+
 | **Indicators of Compromise (IoCs)** | [List suspicious activities, files, or logs] | 
-| **Affected Systems** | [List impacted services or platforms] | 
-| **Serverity** | [how serious the incident is to the company] | 
+
+| **Affected Systems** | [List impacted services or platforms] |
+
+| **Serverity** | [how serious the incident is to the company] |
+
 | **Summary of Impact** | [Describe who or what is affected] | 
+
 | **Resolution Summary** | [How the issue was fixed] | 
+
 | **Incident Duration** | [Start time - End time] | 
+
 | **Quick Links** | [Tickets, documents, or communication channels] |
 
 ## **6. Artifacts (Evidence & Data)** 
 Store relevant files, screenshots, log snippets, or commands used in the investigation.
 
 ## **7. Timeline of Events** 
+
 Record key timestamps and actions taken.
+
 | Time | Event Description | 
+
 | - - - | - - - - - - - - -| 
+
 | 10:00 AM | Suspicious activity detected | 
+
 | 10:15 AM | Incident reported |
 
 ## **8. Meeting Notes** 
