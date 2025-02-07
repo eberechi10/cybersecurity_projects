@@ -1,3 +1,15 @@
+| Left Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -------------:|
+| Data          | Data            | Data          |
+| More Data     | More Data       | More Data     |
+
+
+
+
+
+
+
+
 ## **Introduction**
 Developing comprehensive incident response documentation is a fundamental practice for any cybersecurity team to proactively prepare for potential security events.
 
