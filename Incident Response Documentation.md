@@ -99,7 +99,7 @@ Store relevant files, screenshots, log snippets, or commands used in the investi
 Record key timestamps and actions taken.
 
 | Time | Event Description |
-| - - - | - - - - - - - - -|
+|---|---|
 | 10:00 AM | Suspicious activity detected |
 | 10:15 AM | Incident reported |
 
