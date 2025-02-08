@@ -80,25 +80,15 @@ A table to track action items:
 | Field | Details | 
 |---|---|
 | **Incident Lead** | [Name] | 
-
 | **Incident Assistant** | [Name] | 
-
 | **Subject Matter Experts (SMEs)** | [List of experts involved] | 
-
 | **Incident Reporter** | [Who reported it?] | 
-
 | **Indicators of Compromise (IoCs)** | [List suspicious activities, files, or logs] | 
-
 | **Affected Systems** | [List impacted services or platforms] |
-
 | **Serverity** | [how serious the incident is to the company] |
-
 | **Summary of Impact** | [Describe who or what is affected] | 
-
 | **Resolution Summary** | [How the issue was fixed] | 
-
 | **Incident Duration** | [Start time - End time] | 
-
 | **Quick Links** | [Tickets, documents, or communication channels] |
 
 ## **6. Artifacts (Evidence & Data)** 
