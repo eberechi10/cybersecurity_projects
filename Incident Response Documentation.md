@@ -77,7 +77,7 @@ A table to track action items:
 
 ## **5. Incident Details**
 
-| Field | Details | 
+| Field | Details |
 |---|---|
 | **Incident Lead** | [Name] | 
 | **Incident Assistant** | [Name] | 
