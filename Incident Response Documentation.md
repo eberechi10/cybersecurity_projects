@@ -75,23 +75,11 @@ A table to track action items:
 | Example Task 1 | Name | Investigating | Details here | 
 | Example Task 2 | Name | Completed | Details here |
 
-|Task | Assigned To | Status | Notes |
-|---|---|---|---|
-| Example Task 1 | Name | Investigating | Details here|
-| Example Task 2 | Name | Completed | Details here |
-
-| Left Aligned  | Center Aligned  | Right Aligned |
-| :------------ |:---------------:| -------------:|
-| Data          | Data            | Data          |
-| More Data     | More Data       | More Data     |
-
-
-
 ## **5. Incident Details**
 
 | Field | Details | 
 
-| - - - - | - - - - -| 
+|----|-----| 
 
 | **Incident Lead** | [Name] | 
 
