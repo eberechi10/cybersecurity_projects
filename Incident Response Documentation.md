@@ -72,15 +72,13 @@ A table to track action items:
 
 |Task | Assigned To | Status | Notes |
 |---|---|---|---|
-| Example Task 1 | Name | Investigating | Details here | 
+| Example Task 1 | [Name] | Investigating | Details here | 
 | Example Task 2 | Name | Completed | Details here |
 
 ## **5. Incident Details**
 
 | Field | Details | 
-
 |----|-----| 
-
 | **Incident Lead** | [Name] | 
 
 | **Incident Assistant** | [Name] | 
